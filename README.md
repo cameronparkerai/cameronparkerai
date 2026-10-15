@@ -20,7 +20,7 @@ My Python skills are developing. I use AI coding agents for implementation suppo
 
 ## Selected work
 
-- [From chatbot to operator](https://github.com/mistertoken/recoverable-agent-systems) — lessons from operating isolated agents and building toward recoverable, human-controlled systems
+- [From chatbot to operator](https://github.com/cameronparkerai/recoverable-agent-systems) — lessons from operating isolated agents and building toward recoverable, human-controlled systems
 - [Maple Bay House](https://maplebayhouse.com) — a hospitality property and direct-booking operation where I apply automation to communications, scheduling, records, and administration
 
 ## Research direction
